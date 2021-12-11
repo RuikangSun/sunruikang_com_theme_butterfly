@@ -136,7 +136,7 @@ error_img:
 
 # A simple 404 page
 error_404:
-  enable: false
+  enable: ture
   subtitle: 'Page Not Found'
   background: /img/pixabayError1349562.png
 
