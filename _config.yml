@@ -411,7 +411,7 @@ footer:
   owner:
     enable: true
     since: 2021
-  custom_text: <span>备案号：<a href="http://beian.miit.gov.cn">鲁ICP备20028277号-3</a></span><br><a style="color:rgba(0,0,0,0);" href="http://shhc.tech">生化环材</a>
+  custom_text: <span>备案号：<a href="http://beian.miit.gov.cn">鲁ICP备20028277号-3</a></span><br><a style="color:rgba(0,0,0,0);" href="https://shenghuahuancai.cn/">生化环材</a><br><a style="color:rgba(0,0,0,0);" href="http://www.drugforum.net">药学论坛</a>
 
   copyright: false # Copyright of theme and framework
 
